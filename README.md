@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:00b4d8,100:0077b6&height=230&section=header&text=Shubhrajyoti%20Ghosh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:00b4d8,100:0077b6&height=230&section=header&text=Shubhrajyoti%20Ghosh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20and%20DevOps%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
 
 </div>
 
@@ -209,7 +209,7 @@ I enjoy learning by building practical projects and experimenting with real infr
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=shubhra006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics"
+src="https://github-readme-stats.vercel.app/api?username=shubhra006&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics"
 width="48%"
 />
 
@@ -474,11 +474,11 @@ width="48%"
 
 ☁️ Cloud Infrastructure
 
-  •  
+  •  
 
 🐳 Containerized Applications
 
-  •  
+  •  
 
 🔄 CI/CD Pipelines
 
@@ -488,11 +488,11 @@ width="48%"
 
 🏗️ Infrastructure as Code
 
-  •  
+  •  
 
 🐧 Linux Automation
 
-  •  
+  •  
 
 ☸️ Kubernetes Deployments
 
@@ -502,11 +502,11 @@ width="48%"
 
 🚀 Automated Deployments
 
-  •  
+  •  
 
 🌐 Web Applications
 
-  •  
+  •  
 
 📊 Monitoring
 
