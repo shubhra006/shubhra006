@@ -69,14 +69,14 @@ I enjoy learning by building practical projects and experimenting with real infr
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/1.-Code-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/2.-Git-181717?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/3.-Build-2088FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/4.-Test-2EA44F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/5.-Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/6.-CI/CD-2088FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/7.-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/8.-Deploy-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1.-Code-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/2.-Git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/3.-Build-17a2b8?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/4.-Test-2EA44F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/5.-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/6.-CI/CD-e83e8c?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/7.-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/8.-Deploy-0e75b6?style=for-the-badge&logoColor=white"/>
 
 </p>
 
@@ -305,52 +305,19 @@ width="48%"
 
 # ☁️ Cloud & DevOps Journey
 
-```text
-                         ┌──────────────┐
-                         │    LINUX     │
-                         └──────┬───────┘
-                                │
-                                ▼
-                     ┌──────────────────┐
-                     │ SHELL SCRIPTING  │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │ GIT / GITHUB     │
-                     │     GITLAB       │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │     DOCKER       │
-                     │ DOCKER COMPOSE   │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │      CI/CD       │
-                     │ ACTIONS / JENKINS│
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │    TERRAFORM     │
-                     │       IaC        │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │   KUBERNETES     │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │    AWS CLOUD     │
-                     │ EC2 • S3 • VPC   │
-                     │ IAM • Lambda     │
-                     │ DynamoDB         │
-                     └──────────────────┘
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0e75b6','primaryTextColor':'#ffffff','primaryBorderColor':'#00b4d8','lineColor':'#00b4d8','tertiaryColor':'#161b22','fontFamily':'monospace'}}}%%
+flowchart TD
+    A(["🐧 Linux"]) --> B(["💻 Shell Scripting"])
+    B --> C(["🔧 Git / GitHub / GitLab"])
+    C --> D(["🐳 Docker / Docker Compose"])
+    D --> E(["🔄 CI/CD<br/>Actions • Jenkins"])
+    E --> F(["🏗️ Terraform<br/>IaC"])
+    F --> G(["☸️ Kubernetes"])
+    G --> H(["☁️ AWS Cloud<br/>EC2 • S3 • VPC • IAM • Lambda • DynamoDB"])
+
+    classDef node fill:#0e75b6,stroke:#00b4d8,stroke-width:2px,color:#fff,font-weight:bold
+    class A,B,C,D,E,F,G,H node
 ```
 
 ---
@@ -379,46 +346,21 @@ width="48%"
 
 # 🔄 CI/CD Pipeline
 
-```text
-             Developer
-                 │
-                 ▼
-          ┌─────────────┐
-          │    Git      │
-          └──────┬──────┘
-                 │
-                 ▼
-          ┌─────────────┐
-          │   GitHub    │
-          └──────┬──────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │   CI Pipeline   │
-        │                 │
-        │  ✓ Build        │
-        │  ✓ Test         │
-        │  ✓ Lint         │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Docker Image    │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Container       │
-        │ Registry        │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │   AWS / Server  │
-        └────────┬────────┘
-                 │
-                 ▼
-              🚀 LIVE
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0077b6','primaryTextColor':'#ffffff','primaryBorderColor':'#00b4d8','lineColor':'#00b4d8','tertiaryColor':'#161b22','fontFamily':'monospace'}}}%%
+flowchart TD
+    Dev(["👨‍💻 Developer"]) --> Git(["🔧 Git"])
+    Git --> GH(["🐙 GitHub"])
+    GH --> CI(["🧪 CI Pipeline<br/>✓ Build ✓ Test ✓ Lint"])
+    CI --> Img(["🐳 Docker Image"])
+    Img --> Reg(["📦 Container Registry"])
+    Reg --> AWS(["☁️ AWS / Server"])
+    AWS --> Live(["🚀 LIVE"])
+
+    classDef node fill:#0077b6,stroke:#00b4d8,stroke-width:2px,color:#fff,font-weight:bold
+    classDef live fill:#2EA44F,stroke:#00b4d8,stroke-width:2px,color:#fff,font-weight:bold
+    class Dev,Git,GH,CI,Img,Reg,AWS node
+    class Live live
 ```
 
 ---
@@ -470,78 +412,31 @@ width="48%"
 
 # 💡 What I Like Building
 
-<p align="center">
+<div align="center">
 
-☁️ Cloud Infrastructure
+| | | |
+|:---:|:---:|:---:|
+| ☁️ **Cloud Infrastructure** | 🐳 **Containerized Applications** | 🔄 **CI/CD Pipelines** |
+| 🏗️ **Infrastructure as Code** | 🐧 **Linux Automation** | ☸️ **Kubernetes Deployments** |
+| 🚀 **Automated Deployments** | 🌐 **Web Applications** | 📊 **Monitoring** |
 
-  •  
-
-🐳 Containerized Applications
-
-  •  
-
-🔄 CI/CD Pipelines
-
-</p>
-
-<p align="center">
-
-🏗️ Infrastructure as Code
-
-  •  
-
-🐧 Linux Automation
-
-  •  
-
-☸️ Kubernetes Deployments
-
-</p>
-
-<p align="center">
-
-🚀 Automated Deployments
-
-  •  
-
-🌐 Web Applications
-
-  •  
-
-📊 Monitoring
-
-</p>
+</div>
 
 ---
 
 # 📚 Learning Philosophy
 
-```text
-                 ┌─────────────┐
-                 │   LEARN     │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    BUILD    │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    BREAK    │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    FIX      │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │  UNDERSTAND │
-                 └──────┬──────┘
-                        │
-                        └──────────► 🔁 REPEAT
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#00b4d8','primaryTextColor':'#ffffff','primaryBorderColor':'#0e75b6','lineColor':'#0e75b6','tertiaryColor':'#161b22','fontFamily':'monospace'}}}%%
+flowchart LR
+    A(["📖 Learn"]) --> B(["🔨 Build"])
+    B --> C(["💥 Break"])
+    C --> D(["🛠️ Fix"])
+    D --> E(["💡 Understand"])
+    E -->|🔁 Repeat| A
+
+    classDef node fill:#00b4d8,stroke:#0e75b6,stroke-width:2px,color:#fff,font-weight:bold
+    class A,B,C,D,E node
 ```
 
 ---
