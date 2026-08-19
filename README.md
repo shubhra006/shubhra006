@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:00b4d8,100:0077b6&height=220&section=header&text=Shubhrajyoti%20Ghosh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:00b4d8,100:0077b6&height=230&section=header&text=Shubhrajyoti%20Ghosh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Shubhrajyoti Ghosh</h1>
+<h1 align="center">👋 Hi, I'm Shubhrajyoti Ghosh</h1>
 
 <h3 align="center">
 ☁️ Cloud & DevOps Enthusiast • AWS • Docker • Kubernetes • CI/CD
@@ -31,61 +31,60 @@
 </p>
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=shubhra006&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm **Shubhrajyoti Ghosh**, a Cloud & DevOps enthusiast from India 🇮🇳.
+Hi! I'm **Shubhrajyoti Ghosh**, a Cloud & DevOps enthusiast from India 🇮🇳.
 
-I'm interested in building and deploying applications using modern cloud and DevOps technologies.
+I'm passionate about understanding how applications move from **development to production** using cloud infrastructure, containers, automation and CI/CD.
 
-I enjoy working with:
+I enjoy learning by building practical projects and experimenting with real infrastructure.
+
+### 🚀 My current focus
 
 ```text
-🐧 Linux
+🐧 Linux & Shell Scripting
 ☁️ AWS Cloud
-🐳 Docker
-🔄 CI/CD
-🏗️ Terraform
+🐳 Docker & Docker Compose
 ☸️ Kubernetes
+🔄 CI/CD
 🔧 Git & GitHub / GitLab
+🏗️ Terraform
 ⚙️ Jenkins
 🌐 Nginx
-📜 Shell Scripting
+📊 Monitoring & Automation
 ```
 
-### 🚀 My DevOps mindset
+> 💡 **Learn → Build → Break → Fix → Understand → Repeat**
 
-```text
-Code
-  ↓
-Git
-  ↓
-Build
-  ↓
-Test
-  ↓
-Docker
-  ↓
-CI/CD
-  ↓
-Cloud
-  ↓
-Deploy
-  ↓
-Monitor
-```
+---
 
-> 💡 **Learning by building real projects and breaking things until I understand how they work.**
+# ⚡ My DevOps Workflow
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/1.-Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/2.-Git-181717?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/3.-Build-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/4.-Test-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5.-Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/6.-CI/CD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/7.-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/8.-Deploy-0e75b6?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🛠️ Technologies & Tools
 
-### ☁️ Cloud
+## ☁️ Cloud
 
 <p align="center">
 
@@ -103,7 +102,9 @@ Monitor
 
 </p>
 
-### 🐳 DevOps
+---
+
+## 🐳 DevOps & Infrastructure
 
 <p align="center">
 
@@ -137,7 +138,9 @@ Monitor
 
 </p>
 
-### 💻 Development
+---
+
+## 💻 Programming & Development
 
 <p align="center">
 
@@ -167,7 +170,9 @@ Monitor
 
 </p>
 
-### 🗄️ Database & Web
+---
+
+## 🗄️ Databases & Web
 
 <p align="center">
 
@@ -203,9 +208,15 @@ Monitor
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhra006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Shubhrajyoti's%20GitHub%20Stats" width="48%"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=shubhra006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics"
+width="48%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhra006&layout=compact&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages" width="48%"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhra006&layout=compact&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages"
+width="48%"
+/>
 
 </p>
 
@@ -215,31 +226,23 @@ Monitor
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=shubhra006&hide_border=true&mode=weekly" width="90%"/>
+<img
+src="https://streak-stats.demolab.com/?user=shubhra006&hide_border=true&mode=weekly"
+width="90%"
+/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
-<a href="https://github.com/shubhra006">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhra006&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0077b6&area=true&hide_border=true&custom_title=Shubhrajyoti's%20Contribution%20Activity"/>
-
-</a>
-
-</p>
-
----
-
-# 🟩 GitHub Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/0e75b6/shubhra006" alt="Shubhrajyoti's GitHub Contribution Calendar"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=shubhra006&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+width="95%"
+/>
 
 </p>
 
@@ -249,7 +252,10 @@ Monitor
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubhra006&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=shubhra006&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+width="95%"
+/>
 
 </p>
 
@@ -259,97 +265,186 @@ Monitor
 
 <p align="center">
 
-<a href="https://github.com/shubhra006">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhra006&repo=TaskFlow-devops&hide_border=true&theme=default"/>
+<!-- Replace REPOSITORY-1 and REPOSITORY-2 with your EXACT repository names -->
+
+<a href="https://github.com/shubhra006/REPOSITORY-1">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=shubhra006&repo=REPOSITORY-1&hide_border=true"
+width="48%"
+/>
 </a>
 
-<a href="https://github.com/shubhra006">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhra006&repo=nodejs-auto-deploy&hide_border=true&theme=default"/>
+<a href="https://github.com/shubhra006/REPOSITORY-2">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=shubhra006&repo=REPOSITORY-2&hide_border=true"
+width="48%"
+/>
 </a>
 
 </p>
 
-### ⭐ Project Categories
+<p align="center">
 
-| Project Type  | What I Build                                   |
-| ------------- | ---------------------------------------------- |
-| ☁️ AWS        | Cloud infrastructure & serverless applications |
-| 🐳 Docker     | Containerized applications                     |
-| 🔄 CI/CD      | Automated build, test & deployment pipelines   |
-| 🏗️ Terraform | Infrastructure as Code                         |
-| ☸️ Kubernetes | Container orchestration                        |
-| 🐧 Linux      | Server administration & automation             |
-| 🌐 Web        | Full-stack applications                        |
+<a href="https://github.com/shubhra006/REPOSITORY-3">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=shubhra006&repo=REPOSITORY-3&hide_border=true"
+width="48%"
+/>
+</a>
+
+<a href="https://github.com/shubhra006/REPOSITORY-4">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=shubhra006&repo=REPOSITORY-4&hide_border=true"
+width="48%"
+/>
+</a>
+
+</p>
 
 ---
 
-# ☁️ My Cloud & DevOps Roadmap
+# ☁️ Cloud & DevOps Journey
 
 ```text
-                    ┌─────────────────┐
-                    │      Linux      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Shell Scripting │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Git / GitHub    │
-                    │ GitLab           │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     Docker      │
-                    │ Docker Compose  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     CI / CD     │
-                    │ Actions / Jenkins│
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    Terraform    │
-                    │      IaC        │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   Kubernetes    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    AWS Cloud    │
-                    │ EC2 • S3 • VPC  │
-                    │ Lambda • IAM    │
-                    └─────────────────┘
+                         ┌──────────────┐
+                         │    LINUX     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                     ┌──────────────────┐
+                     │ SHELL SCRIPTING  │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │ GIT / GITHUB     │
+                     │     GITLAB       │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │     DOCKER       │
+                     │ DOCKER COMPOSE   │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │      CI/CD       │
+                     │ ACTIONS / JENKINS│
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │    TERRAFORM     │
+                     │       IaC        │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │   KUBERNETES     │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │    AWS CLOUD     │
+                     │ EC2 • S3 • VPC   │
+                     │ IAM • Lambda     │
+                     │ DynamoDB         │
+                     └──────────────────┘
 ```
 
 ---
 
-# 📚 Currently Learning
+# 🚀 AWS Services I'm Exploring
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+
+</p>
+
+---
+
+# 🔄 CI/CD Pipeline
+
+```text
+             Developer
+                 │
+                 ▼
+          ┌─────────────┐
+          │    Git      │
+          └──────┬──────┘
+                 │
+                 ▼
+          ┌─────────────┐
+          │   GitHub    │
+          └──────┬──────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │   CI Pipeline   │
+        │                 │
+        │  ✓ Build        │
+        │  ✓ Test         │
+        │  ✓ Lint         │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ Docker Image    │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ Container       │
+        │ Registry        │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │   AWS / Server  │
+        └────────┬────────┘
+                 │
+                 ▼
+              🚀 LIVE
+```
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Jenkins-Learning-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Shell%20Scripting-Learning-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </p>
@@ -358,48 +453,96 @@ Monitor
 
 # 🎯 2026 Goals
 
-```text
-☑ Learn Linux deeply
-☑ Build Docker projects
-☑ Understand Docker Compose
-☑ Build CI/CD pipelines
-
-⬜ Master Kubernetes
-⬜ Build production-style AWS infrastructure
-⬜ Improve Terraform
-⬜ Build Jenkins pipelines
-⬜ Learn monitoring & observability
-⬜ Contribute to Open Source
-⬜ Deploy production-style applications
-```
+| Goal                            | Status      |
+| ------------------------------- | ----------- |
+| 🐧 Linux & Shell Scripting      | 🔄 Learning |
+| 🐳 Docker & Docker Compose      | 🔄 Learning |
+| ☁️ AWS Cloud                    | 🔄 Learning |
+| 🔄 CI/CD                        | 🔄 Learning |
+| 🏗️ Terraform                   | 🔄 Learning |
+| ☸️ Kubernetes                   | 🔄 Learning |
+| ⚙️ Jenkins                      | 🔄 Learning |
+| 📊 Monitoring & Observability   | ⏳ Next      |
+| 🌍 Open Source Contributions    | ⏳ Next      |
+| 🚀 Production-style Deployments | ⏳ Next      |
 
 ---
 
-# 🧩 What I'm Interested In
+# 💡 What I Like Building
 
 <p align="center">
 
-☁️ Cloud Computing   •  
-🐳 Containerization   •  
-🔄 CI/CD
+☁️ Cloud Infrastructure
+
+  •  
+
+🐳 Containerized Applications
+
+  •  
+
+🔄 CI/CD Pipelines
 
 </p>
 
 <p align="center">
 
-🏗️ Infrastructure as Code   •  
-🐧 Linux   •  
-☸️ Kubernetes
+🏗️ Infrastructure as Code
+
+  •  
+
+🐧 Linux Automation
+
+  •  
+
+☸️ Kubernetes Deployments
 
 </p>
 
 <p align="center">
 
-🚀 Deployment Automation   •  
-🌐 Cloud Architecture   •  
+🚀 Automated Deployments
+
+  •  
+
+🌐 Web Applications
+
+  •  
+
 📊 Monitoring
 
 </p>
+
+---
+
+# 📚 Learning Philosophy
+
+```text
+                 ┌─────────────┐
+                 │   LEARN     │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    BUILD    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    BREAK    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    FIX      │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │  UNDERSTAND │
+                 └──────┬──────┘
+                        │
+                        └──────────► 🔁 REPEAT
+```
 
 ---
 
@@ -408,7 +551,7 @@ Monitor
 <p align="center">
 
 <a href="https://github.com/shubhra006">
-<img src="https://img.shields.io/badge/GitHub-shubhra006-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-shubhra006-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubhrajyoti-ghosh-a4bbab333/">
@@ -425,12 +568,12 @@ Monitor
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-⭐ **If you find my projects useful, consider giving them a star!**
+### 🚀 Keep Learning • Keep Building • Keep Automating
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0e75b6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0e75b6&height=130&section=footer" width="100%"/>
 
 </div>
