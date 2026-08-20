@@ -303,25 +303,6 @@ width="48%"
 
 ---
 
-# ☁️ Cloud & DevOps Journey
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0e75b6','primaryTextColor':'#ffffff','primaryBorderColor':'#00b4d8','lineColor':'#00b4d8','tertiaryColor':'#161b22','fontFamily':'monospace'}}}%%
-flowchart TD
-    A(["🐧 Linux"]) --> B(["💻 Shell Scripting"])
-    B --> C(["🔧 Git / GitHub / GitLab"])
-    C --> D(["🐳 Docker / Docker Compose"])
-    D --> E(["🔄 CI/CD<br/>Actions • Jenkins"])
-    E --> F(["🏗️ Terraform<br/>IaC"])
-    F --> G(["☸️ Kubernetes"])
-    G --> H(["☁️ AWS Cloud<br/>EC2 • S3 • VPC • IAM • Lambda • DynamoDB"])
-
-    classDef node fill:#0e75b6,stroke:#00b4d8,stroke-width:2px,color:#fff,font-weight:bold
-    class A,B,C,D,E,F,G,H node
-```
-
----
-
 # 🚀 AWS Services I'm Exploring
 
 <p align="center">
@@ -341,27 +322,6 @@ flowchart TD
 <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 
 </p>
-
----
-
-# 🔄 CI/CD Pipeline
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0077b6','primaryTextColor':'#ffffff','primaryBorderColor':'#00b4d8','lineColor':'#00b4d8','tertiaryColor':'#161b22','fontFamily':'monospace'}}}%%
-flowchart TD
-    Dev(["👨‍💻 Developer"]) --> Git(["🔧 Git"])
-    Git --> GH(["🐙 GitHub"])
-    GH --> CI(["🧪 CI Pipeline<br/>✓ Build ✓ Test ✓ Lint"])
-    CI --> Img(["🐳 Docker Image"])
-    Img --> Reg(["📦 Container Registry"])
-    Reg --> AWS(["☁️ AWS / Server"])
-    AWS --> Live(["🚀 LIVE"])
-
-    classDef node fill:#0077b6,stroke:#00b4d8,stroke-width:2px,color:#fff,font-weight:bold
-    classDef live fill:#2EA44F,stroke:#00b4d8,stroke-width:2px,color:#fff,font-weight:bold
-    class Dev,Git,GH,CI,Img,Reg,AWS node
-    class Live live
-```
 
 ---
 
@@ -421,23 +381,6 @@ flowchart TD
 | 🚀 **Automated Deployments** | 🌐 **Web Applications** | 📊 **Monitoring** |
 
 </div>
-
----
-
-# 📚 Learning Philosophy
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#00b4d8','primaryTextColor':'#ffffff','primaryBorderColor':'#0e75b6','lineColor':'#0e75b6','tertiaryColor':'#161b22','fontFamily':'monospace'}}}%%
-flowchart LR
-    A(["📖 Learn"]) --> B(["🔨 Build"])
-    B --> C(["💥 Break"])
-    C --> D(["🛠️ Fix"])
-    D --> E(["💡 Understand"])
-    E -->|🔁 Repeat| A
-
-    classDef node fill:#00b4d8,stroke:#0e75b6,stroke-width:2px,color:#fff,font-weight:bold
-    class A,B,C,D,E node
-```
 
 ---
 
